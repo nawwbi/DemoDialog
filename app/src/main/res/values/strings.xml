@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Dialog</string>
+    <string name="buttonDemo1">DEMO 1 - SIMPLE DIALOG</string>
+    <string name="buttonDemo2">DEMO 2 BUTTONS DIALOG</string>
+    <string name="buttonDemo3">DEMO 3 TEXT INPUT DIALOG</string>
+    <string name="exercise_3">EXERCISE 3</string>
+    <string name="demo4DatepickerDialog">DEMO 4 DATEPICKER DIALOG</string>
+    <string name="demo5TimepickerDialog">DEMO 5 TIMEPICKER DIALOG</string>
+</resources>
